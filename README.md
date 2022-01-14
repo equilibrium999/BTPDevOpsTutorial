@@ -1,2 +1,2 @@
 # BTPDevOpsTutorial - App
-> Business Application
+> Dummy Business Application
